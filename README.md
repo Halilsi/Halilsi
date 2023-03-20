@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<! Halilsi eğlence komutları
-Hazırlanıyor...
-Hazırlandı
+Komutlar/
 
-/hpara 100 para kazandırır ve 100.000.000 üstü paraya sahip olanlara rol verilmesi onerilir
+/hyardım
 
-/hçalış 200 para kazandırır
+/hçalış
 
-/hbozul bot bozulmuş gibi mesaşlar gönderir
+/hbozul
