@@ -1,0 +1,4 @@
+--request GET \
+--url https://discord.com/api/webhooks/1087447596802510948/T6M2Eh5TOZk327-LoEUm_i27aWP2NvDfH4jxBTk_-PWKLYIlSDk5oQfVNoUsL7hqWO3l \
+--header "Authorization: MTA3ODc1OTM0Mjc0MTkzMDE0NQ.Gwobyj.ojMadEzin48voXgbijzDNpFO3yjOPEXExmCVY4\
+--header "X-GitHub-Api-Version: 2022-11-28
